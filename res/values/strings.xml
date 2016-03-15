@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The strings used from the app -->
+
+    <string name="app_name">Recall</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="dialog_tite_laeve">If you leave the note will not be saved</string>
+    <string name="dialog_button_OK">OK</string>
+    <string name="dialog_button_Cancel">Cancel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_delete">Delete</string>
+
+    <!-- the text of the drawer is store here -->
+    <string-array name="social">
+        <item>Home</item>
+        <item>Find Note</item>
+        <item>Create Note</item>
+        <item>Manage Notes</item>
+        <item>Exit</item>
+    </string-array>
+
+    <string name="title_activity_splash">Recall</string>
+    <string name="title_activity_photo">Create Note</string>
+    <string name="title_activity_find_location">Find Places</string>
+    <string name="title_activity_check_notes">Check Notes</string>
+    <string name="title_activity_manage_notes">Manage Notes</string>
+    <string name="title_activity_delete">DELETE</string>
+    <string name="title_activity_take_phote">Take a Photo</string>
+
+</resources>
